@@ -31,7 +31,7 @@ Gnamod World features an all new RWG world based on the vanilla RWG world of 7 D
 
 This is the default experience of Gnamod World.
 			</Description>
-			<ReleaseNotes><!-- Needs Link --></ReleaseNotes>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?55377-GNAMOD-World-Improved-of-RWG-world-Improved-loot-balance-Improved-spawns</ReleaseNotes>
 			<Downloads>
 				<Download>https://github.com/haidrgna/Gnamod-World/archive/master.zip</Download>
 				<Download>https://raw.githubusercontent.com/haidrgna/Gnamod-World/master/Gnamod%20World%20Standalone/Options/World%20Sizes/Large%20World/rwgmixer.xml</Download>
@@ -45,7 +45,7 @@ Gnamod World features an all new RWG world based on the vanilla RWG world of 7 D
 
 This variation comes with a bigger world.
 			</Description>
-			<ReleaseNotes><!-- Needs Link --></ReleaseNotes>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?55377-GNAMOD-World-Improved-of-RWG-world-Improved-loot-balance-Improved-spawns</ReleaseNotes>
 			<Downloads>
 				<!-- Needs to be filled -->
 				<Download>https://github.com/haidrgna/Gnamod-World/archive/master.zip</Download>
@@ -59,7 +59,7 @@ Gnamod World features an all new RWG world based on the vanilla RWG world of 7 D
 
 This variation comes with a smaller world.
 			</Description>
-			<ReleaseNotes><!-- Needs Link --></ReleaseNotes>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?55377-GNAMOD-World-Improved-of-RWG-world-Improved-loot-balance-Improved-spawns</ReleaseNotes>
 			<Downloads>
 				<!-- Needs to be filled -->
 				<Download>https://github.com/haidrgna/Gnamod-World/archive/master.zip</Download>
@@ -73,7 +73,7 @@ Gnamod World features an all new RWG world based on the vanilla RWG world of 7 D
 
 This variation comes with the smallest world.
 			</Description>
-			<ReleaseNotes><!-- Needs Link --></ReleaseNotes>
+			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?55377-GNAMOD-World-Improved-of-RWG-world-Improved-loot-balance-Improved-spawns</ReleaseNotes>
 			<Downloads>
 				<!-- Needs to be filled -->
 				<Download>https://github.com/haidrgna/Gnamod-World/archive/master.zip</Download>
@@ -156,9 +156,9 @@ In this variation of Gnamod Ultra Nomad Mode the amount of zombies spawned in th
 		</Server>
 	</ServerGroup>
 	<!-- Advanced Options Gnamod Ultra Nomad Mode -->
-	<ServerGroup Name="Gnamod Nomad Mode A15: Advanced" Logo="" Description="Gnamod Ultra Nomad Mode: Advanced Options!">
+	<ServerGroup Name="Gnamod Nomad Advanced" Logo="" Description="Gnamod Ultra Nomad Mode: Advanced Options!">
 
-		<Server Name="Huge World: Easy" Logo="">
+		<Server Name="Huge World - Easy" Logo="">
 			<Description>
 Gnamod Ultra Nomad Mode is a variation on Gnamod World where players start out with a randomized starting kit and have them survive as a nomad trekking around the world. In this mode building is severely limited and most construction is gated behind the workbench. This mode creates an unique challenging gameplay where you will move from location to location seeking shelter during the night and traveling during the day looking for valuables and food. This mode can be played solo, with friends and could even be used as a basis for a PvP server. World size is Huge (12500 block radius).
 
@@ -172,7 +172,7 @@ In this variation of Gnamod Ultra Nomad Mode the zombies will not climb, this mo
 			</Downloads>
 		</Server>
 
-		<Server Name="Huge World: Normal" Logo="">
+		<Server Name="Huge World - Normal" Logo="">
 			<Description>
 Gnamod Ultra Nomad Mode is a variation on Gnamod World where players start out with a randomized starting kit and have them survive as a nomad trekking around the world. In this mode building is severely limited and most construction is gated behind the workbench. This mode creates an unique challenging gameplay where you will move from location to location seeking shelter during the night and traveling during the day looking for valuables and food. This mode can be played solo, with friends and could even be used as a basis for a PvP server. World size is Huge (12500 block radius).
 
@@ -188,7 +188,7 @@ This variation is the default experience of Gnamod Ultra Nomad Mode.
 			</Downloads>
 		</Server>
 
-		<Server Name="Huge World: Hard" Logo="">
+		<Server Name="Huge World - Hard" Logo="">
 			<Description>
 Gnamod Ultra Nomad Mode is a variation on Gnamod World where players start out with a randomized starting kit and have them survive as a nomad trekking around the world. In this mode building is severely limited and most construction is gated behind the workbench. This mode creates an unique challenging gameplay where you will move from location to location seeking shelter during the night and traveling during the day looking for valuables and food. This mode can be played solo, with friends and could even be used as a basis for a PvP server. World size is Huge (12500 block radius).
 
@@ -202,7 +202,7 @@ In this variation of Gnamod Ultra Nomad Mode the amount of zombies spawned in th
 			</Downloads>
 		</Server>
 
-		<Server Name="Huge World: Extra Hard" Logo="">
+		<Server Name="Huge World - Extra Hard" Logo="">
 			<Description>
 Gnamod Ultra Nomad Mode is a variation on Gnamod World where players start out with a randomized starting kit and have them survive as a nomad trekking around the world. In this mode building is severely limited and most construction is gated behind the workbench. This mode creates an unique challenging gameplay where you will move from location to location seeking shelter during the night and traveling during the day looking for valuables and food. This mode can be played solo, with friends and could even be used as a basis for a PvP server. World size is Huge (12500 block radius).
 
@@ -216,7 +216,7 @@ In this variation of Gnamod Ultra Nomad Mode the amount of zombies spawned in th
 			</Downloads>
 		</Server>
 
-		<Server Name="Huge World: Insane" Logo="">
+		<Server Name="Huge World - Insane" Logo="">
 			<Description>
 Gnamod Ultra Nomad Mode is a variation on Gnamod World where players start out with a randomized starting kit and have them survive as a nomad trekking around the world. In this mode building is severely limited and most construction is gated behind the workbench. This mode creates an unique challenging gameplay where you will move from location to location seeking shelter during the night and traveling during the day looking for valuables and food. This mode can be played solo, with friends and could even be used as a basis for a PvP server. World size is Huge (12500 block radius).
 
@@ -232,7 +232,7 @@ In this variation of Gnamod Ultra Nomad Mode the amount of zombies spawned in th
 
 		<!-- Medium World -->
 
-		<Server Name="Medium World: Easy" Logo="">
+		<Server Name="Medium World - Easy" Logo="">
 			<Description>
 Gnamod Ultra Nomad Mode is a variation on Gnamod World where players start out with a randomized starting kit and have them survive as a nomad trekking around the world. In this mode building is severely limited and most construction is gated behind the workbench. This mode creates an unique challenging gameplay where you will move from location to location seeking shelter during the night and traveling during the day looking for valuables and food. This mode can be played solo, with friends and could even be used as a basis for a PvP server. World size is Medium (7500 block radius).
 
@@ -246,7 +246,7 @@ In this variation of Gnamod Ultra Nomad Mode the zombies will not climb, this mo
 			</Downloads>
 		</Server>
 
-		<Server Name="Medium World: Normal" Logo="">
+		<Server Name="Medium World - Normal" Logo="">
 			<Description>
 Gnamod Ultra Nomad Mode is a variation on Gnamod World where players start out with a randomized starting kit and have them survive as a nomad trekking around the world. In this mode building is severely limited and most construction is gated behind the workbench. This mode creates an unique challenging gameplay where you will move from location to location seeking shelter during the night and traveling during the day looking for valuables and food. This mode can be played solo, with friends and could even be used as a basis for a PvP server. World size is Medium (7500 block radius).
 
@@ -262,7 +262,7 @@ This variation is the default experience of Gnamod Ultra Nomad Mode.
 			</Downloads>
 		</Server>
 
-		<Server Name="Medium World: Hard" Logo="">
+		<Server Name="Medium World - Hard" Logo="">
 			<Description>
 Gnamod Ultra Nomad Mode is a variation on Gnamod World where players start out with a randomized starting kit and have them survive as a nomad trekking around the world. In this mode building is severely limited and most construction is gated behind the workbench. This mode creates an unique challenging gameplay where you will move from location to location seeking shelter during the night and traveling during the day looking for valuables and food. This mode can be played solo, with friends and could even be used as a basis for a PvP server. World size is Medium (7500 block radius).
 
@@ -276,7 +276,7 @@ In this variation of Gnamod Ultra Nomad Mode the amount of zombies spawned in th
 			</Downloads>
 		</Server>
 
-		<Server Name="Medium World: Extra Hard" Logo="">
+		<Server Name="Medium World - Extra Hard" Logo="">
 			<Description>
 Gnamod Ultra Nomad Mode is a variation on Gnamod World where players start out with a randomized starting kit and have them survive as a nomad trekking around the world. In this mode building is severely limited and most construction is gated behind the workbench. This mode creates an unique challenging gameplay where you will move from location to location seeking shelter during the night and traveling during the day looking for valuables and food. This mode can be played solo, with friends and could even be used as a basis for a PvP server. World size is Medium (7500 block radius).
 
@@ -290,7 +290,7 @@ In this variation of Gnamod Ultra Nomad Mode the amount of zombies spawned in th
 			</Downloads>
 		</Server>
 
-		<Server Name="Medium World: Insane" Logo="">
+		<Server Name="Medium World - Insane" Logo="">
 			<Description>
 Gnamod Ultra Nomad Mode is a variation on Gnamod World where players start out with a randomized starting kit and have them survive as a nomad trekking around the world. In this mode building is severely limited and most construction is gated behind the workbench. This mode creates an unique challenging gameplay where you will move from location to location seeking shelter during the night and traveling during the day looking for valuables and food. This mode can be played solo, with friends and could even be used as a basis for a PvP server. World size is Medium (7500 block radius).
 
@@ -305,7 +305,7 @@ In this variation of Gnamod Ultra Nomad Mode the amount of zombies spawned in th
 		</Server>
 
 		<!-- Small World -->
-		<Server Name="Small World: Easy" Logo="">
+		<Server Name="Small World - Easy" Logo="">
 			<Description>
 Gnamod Ultra Nomad Mode is a variation on Gnamod World where players start out with a randomized starting kit and have them survive as a nomad trekking around the world. In this mode building is severely limited and most construction is gated behind the workbench. This mode creates an unique challenging gameplay where you will move from location to location seeking shelter during the night and traveling during the day looking for valuables and food. This mode can be played solo, with friends and could even be used as a basis for a PvP server. World size is Small (5000 block radius).
 
@@ -319,7 +319,7 @@ In this variation of Gnamod Ultra Nomad Mode the zombies will not climb, this mo
 			</Downloads>
 		</Server>
 
-		<Server Name="Small World: Normal" Logo="">
+		<Server Name="Small World - Normal" Logo="">
 			<Description>
 Gnamod Ultra Nomad Mode is a variation on Gnamod World where players start out with a randomized starting kit and have them survive as a nomad trekking around the world. In this mode building is severely limited and most construction is gated behind the workbench. This mode creates an unique challenging gameplay where you will move from location to location seeking shelter during the night and traveling during the day looking for valuables and food. This mode can be played solo, with friends and could even be used as a basis for a PvP server. World size is Small (5000 block radius).
 
@@ -335,7 +335,7 @@ This variation is the default experience of Gnamod Ultra Nomad Mode.
 			</Downloads>
 		</Server>
 
-		<Server Name="Small World: Hard" Logo="">
+		<Server Name="Small World - Hard" Logo="">
 			<Description>
 Gnamod Ultra Nomad Mode is a variation on Gnamod World where players start out with a randomized starting kit and have them survive as a nomad trekking around the world. In this mode building is severely limited and most construction is gated behind the workbench. This mode creates an unique challenging gameplay where you will move from location to location seeking shelter during the night and traveling during the day looking for valuables and food. This mode can be played solo, with friends and could even be used as a basis for a PvP server. World size is Small (5000 block radius).
 
@@ -349,7 +349,7 @@ In this variation of Gnamod Ultra Nomad Mode the amount of zombies spawned in th
 			</Downloads>
 		</Server>
 
-		<Server Name="Small World: Extra Hard" Logo="">
+		<Server Name="Small World - Extra Hard" Logo="">
 			<Description>
 Gnamod Ultra Nomad Mode is a variation on Gnamod World where players start out with a randomized starting kit and have them survive as a nomad trekking around the world. In this mode building is severely limited and most construction is gated behind the workbench. This mode creates an unique challenging gameplay where you will move from location to location seeking shelter during the night and traveling during the day looking for valuables and food. This mode can be played solo, with friends and could even be used as a basis for a PvP server. World size is Small (5000 block radius).
 
@@ -363,7 +363,7 @@ In this variation of Gnamod Ultra Nomad Mode the amount of zombies spawned in th
 			</Downloads>
 		</Server>
 
-		<Server Name="Small World: Insane" Logo="">
+		<Server Name="Small World - Insane" Logo="">
 			<Description>
 Gnamod Ultra Nomad Mode is a variation on Gnamod World where players start out with a randomized starting kit and have them survive as a nomad trekking around the world. In this mode building is severely limited and most construction is gated behind the workbench. This mode creates an unique challenging gameplay where you will move from location to location seeking shelter during the night and traveling during the day looking for valuables and food. This mode can be played solo, with friends and could even be used as a basis for a PvP server. World size is Small (5000 block radius).
 
@@ -398,7 +398,7 @@ Can you survive in this Wasteland?
 			</Downloads>
 		</Server>
 
-		<Server Name="Nomad Mode: Easy" Logo="">
+		<Server Name="Nomad Mode - Easy" Logo="">
 			<Description>
 Gnamod Necropolis is a NEW RWG World created using the knowledge gained when I was working on Gnamod World and Ultra Nomad Mode. 
 It creates an all new world that features a bleak and desolate post apocalyptic wasteland world. In this world you will not find 
@@ -419,7 +419,7 @@ Can you survive in this Wasteland?
 		</Server>		
 
 
-		<Server Name="Nomad Mode: Normal" Logo="">
+		<Server Name="Nomad Mode - Normal" Logo="">
 			<Description>
 Gnamod Necropolis is a NEW RWG World created using the knowledge gained while working on Gnamod World and Ultra Nomad Mode. 
 It creates an all new world that features a bleak and desolate post apocalyptic wasteland world. In this world you will not find 
@@ -440,7 +440,7 @@ Can you survive in this Wasteland?
 		</Server>
 
 
-		<Server Name="Nomad Mode: Hard" Logo="">
+		<Server Name="Nomad Mode - Hard" Logo="">
 			<Description>
 Gnamod Necropolis is a NEW RWG World created using the knowledge gained when I was working on Gnamod World and Ultra Nomad Mode. 
 It creates an all new world that features a bleak and desolate post apocalyptic wasteland world. In this world you will not find 
