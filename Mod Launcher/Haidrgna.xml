@@ -381,17 +381,15 @@ In this variation of Gnamod Ultra Nomad Mode the amount of zombies spawned in th
 	<ServerGroup Name="Gnamod Necropolis" Logo="" Description="Haidrgna Gnamod Necropolis Mods with various combinations!">
 		<Server Name="Classic" Logo="">
 			<Description>
-Gnamod Necropolis is a NEW RWG World created using the knowledge gained while working on Gnamod World and Ultra Nomad Mode. 
-It creates an all new world that features a bleak and desolate post apocalyptic wasteland world. In this world you will not find 
-any green biomes or places to hide. You find yourself in the remains of sprawling metropolis, a zone that is not consumed by the 
-radiation that surrounds it. The weather has been affected and so have its inhabitants, which come out of their radiation 
-hideouts at night to feed on any remaining survivors. 
+Gnamod Necropolis uses an entirely NEW RWG World based on wasteland biomes and features the bleak remains of a dead an desolate post apocalyptic Necropolis. In this world you will not find any green biomes or places to hide. The map is smaller and surrounded by a radiated wasteland where the zombies live. During the day the area is habitable and you will not see as much zombies, except for the remains of the urban centers. But at night the zombies will really come out of their hiding and seeking to eat your brains. 
 
-Can you survive in this Wasteland?
+This world and mod variations is meant for players seeking a challenge and it is designed to play with mostly default settings. It is not recommended to change the loot settings down or increasing zombie spawns above 100%.
+
+Can you survive this Wasteland?
 			</Description>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?62206-Gnamod-Necropolis-New-RWG-World-and-Challenge-Mode</ReleaseNotes>
 			<Excludes>
-				<Exclude>Gnamod%20Necropolis%20Nomad</Exclude>
+				<Exclude>Gnamod-Necropolis-Nomad</Exclude>
 			</Excludes>
 			<Downloads>
 				<Download>https://github.com/haidrgna/Gnamod-Necropolis/archive/master.zip</Download>
@@ -400,17 +398,15 @@ Can you survive in this Wasteland?
 
 		<Server Name="Nomad Mode - Easy" Logo="">
 			<Description>
-Gnamod Necropolis is a NEW RWG World created using the knowledge gained when I was working on Gnamod World and Ultra Nomad Mode. 
-It creates an all new world that features a bleak and desolate post apocalyptic wasteland world. In this world you will not find 
-any green biomes or places to hide. You find yourself in the remains of sprawling metropolis, a zone that is not consumed by the 
-radiation that surrounds it. The weather has been affected and so have its inhabitants, which come out of their radiation 
-hideouts at night to feed on any remaining survivors. 
+Gnamod Necropolis uses an entirely NEW RWG World based on wasteland biomes and features the bleak remains of a dead an desolate post apocalyptic Necropolis. In this world you will not find any green biomes or places to hide. The map is smaller and surrounded by a radiated wasteland where the zombies live. During the day the area is habitable and you will not see as much zombies, except for the remains of the urban centers. But at night the zombies will really come out of their hiding and seeking to eat your brains. 
 
-Can you survive in this Wasteland?
+This mod variation is similar to Gnamod World - Ultra Nomad Mode but than in the Necropolis world. This is the ultimate challenge version of Gnamod Necropolis. This version of the mod is meant to be played with the following settings: Default except the following, Zombies on Feral, Airdrop 1/day, 30 mins days, 18 h daylight.
+
+Can you survive this Wasteland?
 			</Description>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?62206-Gnamod-Necropolis-New-RWG-World-and-Challenge-Mode</ReleaseNotes>
 			<Excludes>
-				<Exclude>Gnamod%20Necropolis%20Classic</Exclude>
+				<Exclude>Gnamod-Necropolis-Classic</Exclude>
 			</Excludes>
 			<Downloads>
 				<Download>https://github.com/haidrgna/Gnamod-Necropolis/archive/master.zip</Download>
@@ -421,18 +417,16 @@ Can you survive in this Wasteland?
 
 		<Server Name="Nomad Mode - Normal" Logo="">
 			<Description>
-Gnamod Necropolis is a NEW RWG World created using the knowledge gained while working on Gnamod World and Ultra Nomad Mode. 
-It creates an all new world that features a bleak and desolate post apocalyptic wasteland world. In this world you will not find 
-any green biomes or places to hide. You find yourself in the remains of sprawling metropolis, a zone that is not consumed by the 
-radiation that surrounds it. The weather has been affected and so have its inhabitants, which come out of their radiation 
-hideouts at night to feed on any remaining survivors. 
+Gnamod Necropolis uses an entirely NEW RWG World based on wasteland biomes and features the bleak remains of a dead an desolate post apocalyptic Necropolis. In this world you will not find any green biomes or places to hide. The map is smaller and surrounded by a radiated wasteland where the zombies live. During the day the area is habitable and you will not see as much zombies, except for the remains of the urban centers. But at night the zombies will really come out of their hiding and seeking to eat your brains. 
 
-Can you survive in this Wasteland?
+This mod variation is similar to Gnamod World - Ultra Nomad Mode but than in the Necropolis world. This is the ultimate challenge version of Gnamod Necropolis. This version of the mod is meant to be played with the following settings: Default except the following, Zombies on Feral, Airdrop 1/day, 30 mins days, 18 h daylight.
+
+Can you survive this Wasteland?
 			</Description>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?62206-Gnamod-Necropolis-New-RWG-World-and-Challenge-Mode</ReleaseNotes>
 			<Excludes>
 				<Exclude>Options</Exclude>
-				<Exclude>Gnamod%20Necropolis%20Classic</Exclude>
+				<Exclude>Gnamod-Necropolis-Classic</Exclude>
 			</Excludes>
 			<Downloads>
 				<Download>https://github.com/haidrgna/Gnamod-Necropolis/archive/master.zip</Download>
@@ -442,17 +436,15 @@ Can you survive in this Wasteland?
 
 		<Server Name="Nomad Mode - Hard" Logo="">
 			<Description>
-Gnamod Necropolis is a NEW RWG World created using the knowledge gained when I was working on Gnamod World and Ultra Nomad Mode. 
-It creates an all new world that features a bleak and desolate post apocalyptic wasteland world. In this world you will not find 
-any green biomes or places to hide. You find yourself in the remains of sprawling metropolis, a zone that is not consumed by the 
-radiation that surrounds it. The weather has been affected and so have its inhabitants, which come out of their radiation 
-hideouts at night to feed on any remaining survivors. 
+Gnamod Necropolis uses an entirely NEW RWG World based on wasteland biomes and features the bleak remains of a dead an desolate post apocalyptic Necropolis. In this world you will not find any green biomes or places to hide. The map is smaller and surrounded by a radiated wasteland where the zombies live. During the day the area is habitable and you will not see as much zombies, except for the remains of the urban centers. But at night the zombies will really come out of their hiding and seeking to eat your brains. 
 
-Can you survive in this Wasteland?
+This mod variation is similar to Gnamod World - Ultra Nomad Mode but than in the Necropolis world. This is the ultimate challenge version of Gnamod Necropolis. This version of the mod is meant to be played with the following settings: Default except the following, Zombies on Feral, Airdrop 1/day, 30 mins days, 18 h daylight.
+
+Can you survive this Wasteland?
 			</Description>
 			<ReleaseNotes>https://7daystodie.com/forums/showthread.php?62206-Gnamod-Necropolis-New-RWG-World-and-Challenge-Mode</ReleaseNotes>
 			<Excludes>
-				<Exclude>Gnamod%20Necropolis%20Classic</Exclude>
+				<Exclude>Gnamod-Necropolis-Classic</Exclude>
 			</Excludes>
 			<Downloads>
 				<Download>https://github.com/haidrgna/Gnamod-Necropolis/archive/master.zip</Download>
