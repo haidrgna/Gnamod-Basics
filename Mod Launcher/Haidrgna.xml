@@ -24,7 +24,8 @@ Server Name=""
 ********************************************************************************************************************** -->
 <Servers>
 	<!-- Gnamod World -->
-	<ServerGroup Name="Gnamod World" Logo="" Description="Gnamod World">
+	<ServerGroup Name="Gnamod World" Logo="" Description="Gnamod World features an all new RWG world based on the vanilla RWG world of 7 Days to Die. This world comes with tailored and improved biomes, new spawning rules for POIs, height based biome painting, all new terrain generation that features a diverse landscape with tall mountains, rolling hills and various other landscapes such as crater lakes. This mod also comes with a balanced all new loot generation that increases the challenge of the game while preserving the vanilla feel of the game. The zombie spawning is also tailored to fit the world among with some other tweaks such as improved stock for traders and some balance changes. World size is Large (10000 block radius).
+">
 		<Server Name="Large World" Logo="">
 			<Description>
 Gnamod World features an all new RWG world based on the vanilla RWG world of 7 Days to Die. This world comes with tailored and improved biomes, new spawning rules for POIs, height based biome painting, all new terrain generation that features a diverse landscape with tall mountains, rolling hills and various other landscapes such as crater lakes. This mod also comes with a balanced all new loot generation that increases the challenge of the game while preserving the vanilla feel of the game. The zombie spawning is also tailored to fit the world among with some other tweaks such as improved stock for traders and some balance changes. World size is Large (10000 block radius).
@@ -86,7 +87,8 @@ ot yet on github, this version is a simplified version of my mod that only mildl
 
 	</ServerGroup>
 	<!-- Default Gnamod Ultra Nomad Mode -->
-	<ServerGroup Name="Gnamod Nomad Mode A15" Logo="" Description="Gnamod Ultra Nomad Mode!">
+	<ServerGroup Name="Gnamod Nomad Mode A15" Logo="" Description="Gnamod Ultra Nomad Mode is a variation on Gnamod World where players start out with a randomized starting kit and have them survive as a nomad trekking around the world. In this mode building is severely limited and most construction is gated behind the workbench. This mode creates an unique challenging gameplay where you will move from location to location seeking shelter during the night and traveling during the day looking for valuables and food. This mode can be played solo, with friends and could even be used as a basis for a PvP server. World size is Large (10000 block radius).
+">
 
 		<Server Name="Easy" Logo="">
 			<Description>
@@ -378,7 +380,11 @@ In this variation of Gnamod Ultra Nomad Mode the amount of zombies spawned in th
 		</Server>
 	</ServerGroup>
 	<!-- Gnamod Necropolis -->
-	<ServerGroup Name="Gnamod Necropolis" Logo="" Description="Haidrgna Gnamod Necropolis Mods with various combinations!">
+	<ServerGroup Name="Gnamod Necropolis" Logo="" Description="Gnamod Necropolis uses an entirely NEW RWG World based on wasteland biomes and features the bleak remains of a dead an desolate post apocalyptic Necropolis. In this world you will not find any green biomes or places to hide. The map is smaller and surrounded by a radiated wasteland where the zombies live. During the day the area is habitable and you will not see as much zombies, except for the remains of the urban centers. But at night the zombies will really come out of their hiding and seeking to eat your brains. 
+
+This world and mod variations is meant for players seeking a challenge and it is designed to play with mostly default settings. It is not recommended to change the loot settings down or increasing zombie spawns above 100%.
+
+Can you survive this Wasteland?">
 		<Server Name="Classic" Logo="">
 			<Description>
 Gnamod Necropolis uses an entirely NEW RWG World based on wasteland biomes and features the bleak remains of a dead an desolate post apocalyptic Necropolis. In this world you will not find any green biomes or places to hide. The map is smaller and surrounded by a radiated wasteland where the zombies live. During the day the area is habitable and you will not see as much zombies, except for the remains of the urban centers. But at night the zombies will really come out of their hiding and seeking to eat your brains. 
